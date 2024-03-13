@@ -1,0 +1,6 @@
+projectKey=ProyectoU3_PA_FrontEnd2
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=ProyectoU3_PA_FrontEnd2
+ceTaskId=706d061b-b243-4e5e-a3ef-81c064ef519d
+ceTaskUrl=http://localhost:9000/api/ce/task?id=706d061b-b243-4e5e-a3ef-81c064ef519d
